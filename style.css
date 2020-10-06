@@ -1,0 +1,21 @@
+body {background-color: grey;}
+h1   {color: gold;}
+p {color: #ffffff;}
+/* unvisited link */
+a:link {
+  color: maroon;
+}
+/* visited link */
+a:visited {
+  color: hotpink;
+}
+/* mouse over link */
+a:hover {
+  color: gold;
+}
+/* Top left text */
+.top-left {
+  position: absolute;
+  top: 8px;
+  left: 16px;
+}
